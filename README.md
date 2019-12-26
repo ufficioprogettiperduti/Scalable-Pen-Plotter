@@ -6,6 +6,4 @@ The main difference between printing with a normal printer and d.i.d. is that th
 
 The materials and electronics used for the plotter are all standard and easy to source. The main frame is made of aluminum extrusion and 3d printed connections. The motors are all standard nema 17 stepper-motors and a single sg-90 servo motor. Everything is driven by a cheap Arduino Uno control board that handles the transition from g-code to movement. Furthermore, the software used to create g-code, Inkscape, is opensource as well.
 
-Here are a few videos of it in action
-https://youtu.be/RkO-iulIUkc
-https://youtu.be/divlbFCbLq4
+
